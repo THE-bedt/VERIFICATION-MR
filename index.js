@@ -38,11 +38,4 @@ client.on('clickButton', async (button) => {
 
 client.login(process.env.token)
 
-gggg
-
-mY23sBVkvV4fwPg
-
-public bot
-!e$gBQDeWgYFW97
-
-1231002462512632205126520106899745689974541744171010017
+// Do npm i discord.js@12.5.3 in Shell before running
